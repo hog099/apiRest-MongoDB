@@ -1,0 +1,3 @@
+/node_modules
+/config/auth.json
+*.log
